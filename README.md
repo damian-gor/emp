@@ -5,6 +5,9 @@ By podejrzeć bazę danych należy po uruchomieniu aplikacji otworzyć stronę: 
 Parametry bazy danych:
 
 Driver Class:	org.h2.Driver
+
 JDBC URL: jdbc:h2:mem:testdb
+
 User Name:	sa
+
 Password:	<pozostaw to pole puste>
